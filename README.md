@@ -10,7 +10,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lbarcat&show_icons=true&theme=cobalt"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbarcat;layout=compact&amp;langs_count=7&amp;theme=cobalt"/>
+
+<div align="center" dir="auto">
+  <a href="https://github.com/lbarcat">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api username=lbarcat&amp;show_icons=true&amp;theme=cobalt&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbarcat&amp;layout=compact&amp;langs_count=7&amp;theme=cobalt" style="max-width: 100%;">
+</a></div>
 
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
 <a href="https://www.linkedin.com/in/lucas-barcat/" rel="nofollow"><img
