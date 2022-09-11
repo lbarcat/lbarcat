@@ -9,8 +9,6 @@ lbarcat/lbarcat is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lbarcat&show_icons=true&theme=cobalt"/>
-
 <div align="center" dir="auto">
   <a href="https://github.com/lbarcat">
   <img height="180em" src="https://github-readme-stats.vercel.app/api username=lbarcat&amp;show_icons=true&amp;theme=cobalt&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
