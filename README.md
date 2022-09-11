@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lbarcat
 - 👀 I’m interested in Computer Engineering
 - 🌱 I’m currently learning Python
-- 💞️ I’m learn with He4rt Developers
+- 💞️ I’m learn with He4rt Developers https://heartdevs.com/
 - 📫 How to reach me lcbarcat@gmail.com...
 
 <!---
