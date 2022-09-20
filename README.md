@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lbarcat&show_icons=true&theme=cobalt"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbarcat&theme=cobalt"/>
 
-<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;"> <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="max-width: 100%;">
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;"> <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="max-width: 100%;"><img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="max-width: 100%;">
 
 
 <a href="https://www.linkedin.com/in/lucas-barcat/" rel="nofollow"><img
