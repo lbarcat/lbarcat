@@ -9,10 +9,10 @@ lbarcat/lbarcat is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://github.com/lbarcat/github-readme-stats">
+<a href="https://github.com/lbarcat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lbarcat&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/lbarcat/convoychat">
+<a href="https://github.com/lbarcat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lbarcat&repo=convoychat" />
 </a>
 
