@@ -6,6 +6,8 @@
 - 👀 I’m studying Computer Engineering: (UNIVESP)
 - 🌱 I’m currently learning Python:
 - 💞️ I’m learn with He4rt Developers: https://heartdevs.com/
+
+
 <a href="https://imgur.com/VMfykbA"><img src="https://i.imgur.com/VMfykbA.png" title="source: imgur.com" width="100"/></a>
 
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
