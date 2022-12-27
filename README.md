@@ -5,6 +5,8 @@
 
 - 👀 I’m studying Computer Engineering (UNIVESP)
 - 📚 Member of the OAT Inside program <a href="https://imgur.com/yFsBnFZ"><img src="https://i.imgur.com/yFsBnFZ.png" title="source: imgur.com" width="100" align="center"/></a>   
+✅ Business Agility
+✅ Management 3.0
 - 🌱 I’m currently learning Python 🐍
 - 💞️ I’m learn with He4rt Developers: https://heartdevs.com/<a href="https://imgur.com/VMfykbA"><img src="https://i.imgur.com/VMfykbA.png" title="source: imgur.com" width="100" aligh="center"/></a>
 
