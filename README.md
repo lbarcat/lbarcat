@@ -33,7 +33,8 @@
 
 **Study/Planning with:**
 
-[![Miro](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://bitbucket.org/product)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://bitbucket.org/product)
+
+<img src="https://cdn.dribbble.com/users/1271325/screenshots/14874367/media/2b7861673ec2da8f6d05084bd50e0156.gif" title="notion" width="300" align="center"/></a>
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=lbarcat&hide=html&layout=compact=true&theme=dark)](https://github.com/lbarcat/github-readme-stats)
-<img src="https://cdn.dribbble.com/users/1271325/screenshots/14874367/media/2b7861673ec2da8f6d05084bd50e0156.gif" title="notion" width="380" align="top"/></a>
