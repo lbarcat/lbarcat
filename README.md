@@ -35,6 +35,6 @@
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://bitbucket.org/product)
 
-![NotionGif](https://im4.ezgif.com/tmp/ezgif-4-5991ed9ab8.gif)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="200"/></a>
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=lbarcat&hide=html&layout=compact=true&theme=dark)](https://github.com/lbarcat/github-readme-stats)
