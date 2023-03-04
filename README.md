@@ -18,6 +18,8 @@
 ![WINDOWS](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 [![Bibucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/product)
+[![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)](https://bitbucket.org/product)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://bitbucket.org/product)
 
 **DevOps**
 
@@ -29,5 +31,8 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+**Study/Planning with:**
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=lbarcat&hide=html&layout=compact=true&theme=dark)](https://github.com/lbarcat/github-readme-stats)
+[![Miro](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://bitbucket.org/product)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=lbarcat&hide=html&layout=compact=true&theme=dark)](https://github.com/lbarcat/github-readme-stats) <img src="https://cdn.dribbble.com/users/1271325/screenshots/14874367/media/2b7861673ec2da8f6d05084bd50e0156.gif" title="source: imgur.com" width="380" talign="center"/></a>
