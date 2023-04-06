@@ -3,7 +3,7 @@
 
 <h3> &nbsp; About me </h3>
 
- Im a Computer Engineering student, graduated in Quality Management and Post Graduated in Project Management. Currently, I keep my focus on Data Science and Back End development. I'm learning some programming languages, such as Python, Go, HTML and CSS using some tools, among them: VS Code, PyCharm, and Codespaces. I have some studies on Agile Methodologies, participating in the OAT Inside training program of the company OAT Solutions, aiming at learning Atlassian tools and solutions, such as Jira Software and Bitbucket. I am a member of the He4rt Developers community, created to help the developer community, an environment where studies and opportunities, in general, are shared for all people.
+ Im a Computer Engineering student, graduated in Quality Management and Post Graduated in Project Management. Currently, I keep my focus on Data Science and Back End development. I'm learning some programming languages, such as Python, Go, HTML and CSS using some tools, among them: VS Code, PyCharm, and Codespaces. I have some studies on Agile Methodologies, participating in the NE1 training program of the company Nimble Evolution, aiming at learning Atlassian tools and solutions, such as Jira Software and Bitbucket. I am a member of the He4rt Developers community, created to help the developer community, an environment where studies and opportunities, in general, are shared for all people.
 
 
 <h3> :rocket: &nbsp;My Skills </h3>
