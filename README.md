@@ -3,8 +3,7 @@
 
 <h3> &nbsp; About me </h3>
 
- Im a Computer Engineering student, graduated in Quality Management and Post Graduated in Project Management. Currently, I keep my focus on Data Science and Back End development. I'm learning some programming languages, such as Python, Go, HTML and CSS using some tools, among them: VS Code, PyCharm, and Codespaces. I have some studies on Agile Methodologies, participating in the NE1 training program of the company Nimble Evolution, aiming at learning Atlassian tools and solutions, such as Jira Software and Bitbucket. I am a member of the He4rt Developers community, created to help the developer community, an environment where studies and opportunities, in general, are shared for all people.
-
+Sou estudante de Engenharia da Computação, formado em Gestão da Qualidade e Pós Graduado em Gerenciamento de Projetos. Estou aprendendo algumas linguagens de programação, como Python, Go, HTML e CSS utilizando algumas ferramentas, entre elas: VS Code, PyCharm e Codespaces. Possuo alguns estudos sobre Metodologias Ágeis, participando do programa de treinamentos NE1 da empresa Nimble Evolution, visando o aprendizado das ferramentas e soluções da Atlassian, como Jira Software e Bitbucket. Sou membro da comunidade He4rt Developers, criada para ajudar a comunidade de desenvolvedores.
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
