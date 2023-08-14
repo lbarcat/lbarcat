@@ -3,7 +3,7 @@
 
 <h3> &nbsp; About me </h3>
 
-Sou estudante de Engenharia da Computação, formado em Gestão da Qualidade e Pós Graduado em Gerenciamento de Projetos. Estou aprendendo algumas linguagens de programação, como Python, Go, HTML e CSS utilizando algumas ferramentas, entre elas: VS Code, PyCharm e Codespaces. Possuo alguns estudos sobre Metodologias Ágeis, participando do programa de treinamentos NE1 da empresa Nimble Evolution, visando o aprendizado das ferramentas e soluções da Atlassian, como Jira Software e Bitbucket. Sou membro da comunidade He4rt Developers, criada para ajudar a comunidade de desenvolvedores.
+Sou estudante de Engenharia de Computação, formado em Gestão da Qualidade e Pós Graduado em Gerenciamento de Projetos. Estou aprendendo algumas linguagens de programação, como Python, Go, HTML e CSS utilizando algumas ferramentas, entre elas: VS Code, PyCharm e Codespaces. Possuo alguns estudos sobre Metodologias Ágeis, participando do programa de treinamentos NE1 da empresa Nimble Evolution, visando o aprendizado das ferramentas e soluções da Atlassian, como Jira Software e Bitbucket. Sou membro da comunidade He4rt Developers, criada para ajudar a comunidade de desenvolvedores.
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
