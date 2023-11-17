@@ -1,9 +1,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LucasBarcat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barcat/)
 
-Formado em Gestão da Qualidade e Pós Graduado em Gestão de Projetos. Estou estudando sobre algumas linguagens de programação, tais como:  C++, Python, Go, HTML, CSS e etc. Utilizo algumas ferramentas, entre elas: VS Code, PyCharm e Codespaces. Participo do programa de treinamentos NE1 da empresa Nimble Evolution, visando o aprendizado das ferramentas e soluções da Atlassian, como o Jira Software, Bitbucket e Confluence. Sou membro da comunidade He4rt Developers, criada para ajudar e capacitar os desenvolvedores em diversas tecnologias.
-
-
+Business Agility, Lean Change Management, OKR's, AWS, DevOps, Jira, Management 3.0, Python, fundamentos de análise de dados e Machine Learning. Possuo alguns projetos como: Implementação de um bot (JIRA BOT) para ajudar os usuários do Jira com perguntas frequentes do software, documentação sobre DevOps na comunidade He4rt Developers e a construção de um classificador de astrofotografias usando Convolutional Neural Network (CNN). Conhecimento na ferramenta de produtividade Notion, para a criação de quadros Kanban, gestão de documentos, project tracking e espaços personalizados para equipes.
 
 <h3> :rocket: &nbsp;Skills: </h3>
 
