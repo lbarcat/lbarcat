@@ -22,11 +22,6 @@ Business Agility, Lean Change Management, OKR's, AWS, DevOps, Jira, Management 3
 [![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)](https://bitbucket.org/product)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://bitbucket.org/product)
 
-
-**Estudando com:**
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="120"/></a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/512px-2023_Obsidian_logo.svg.png?20230604143825" width="120"/></a>
-
 **Comunidade:**
 
 <img src="https://4noobs.netlify.app/images/he4rt.png" width="120"/></a>
